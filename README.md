@@ -32,7 +32,7 @@ CodeSphere is a **Spring MVC + JDBC + JSP powered educational platform** designe
 
 Follow these steps to set up the project locally:  
 
-### 1️⃣ Clone the repository  
+3️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/codesphere.git
 cd codesphere

@@ -32,11 +32,12 @@ CodeSphere is a **Spring MVC + JDBC + JSP powered educational platform** designe
 
 Follow these steps to set up the project locally:  
 
-3️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/codesphere.git
 cd codesphere
 
+2️⃣ Setup Database (MySQL)
 Create a new MySQL database (e.g., codesphere_db).
 Import the provided SQL file (if available) or create tables for:
 
@@ -57,6 +58,7 @@ Update your applicationContext.xml / JDBC config with:
 4️⃣ Deploy on Tomcat
 
 Run the project on Apache Tomcat (v9 or above).
+
 
 Future Scope
 🔮 AI-based question recommendations

@@ -56,10 +56,9 @@ Update your applicationContext.xml / JDBC config with:
 
 4️⃣ Deploy on Tomcat
 
-**Run the project on Apache Tomcat (v9 or above).**
+Run the project on Apache Tomcat (v9 or above).
 
-**Future Scope
-**
+Future Scope
 🔮 AI-based question recommendations
 🔮 Gamification with badges and leaderboards
 🔮 Expand to cover Data Structures, Algorithms, and Aptitude

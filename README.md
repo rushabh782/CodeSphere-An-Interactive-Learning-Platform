@@ -1,6 +1,7 @@
 # 🌐 EduSite – An Interactive Learning Platform 🎓💻  
 
-CodeSphere is a **Spring MVC + JDBC + JSP powered educational platform** designed for students, developers, and educators. It offers **topic-wise programming practice, MCQs, and an in-browser IDE** to boost coding skills interactively.  
+EduSite
+is a **Spring MVC + JDBC + JSP powered educational platform** designed for students, developers, and educators. It offers **topic-wise programming practice, MCQs, and an in-browser IDE** to boost coding skills interactively.  
 
 ---
 

@@ -1,0 +1,21 @@
+# --- Sensitive app configs (do NOT upload) ---
+src/main/webapp/WEB-INF/first-servlet.xml
+src/main/webapp/WEB-INF/web.xml
+
+# --- Build output ---
+/target/
+
+# --- IDE/OS files ---
+.classpath
+.project
+.settings/
+Servers/
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Java/Maven noise ---
+*.class
+*.log
